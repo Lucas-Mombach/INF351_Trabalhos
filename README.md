@@ -25,8 +25,8 @@ Os projetos abaixo foram desenvolvidos durante a disciplina INF 351 - Sistemas E
 ## Marvin, o Robô que escuta Rádio
 [link]()
 
-## Jogo de Padrões
+## Jogo do Padrão passado - LCD Shield Edition
 [link]()
 
-## Trabalho 8
+## Jogo do Padrão passado - MESA LED Edition
 [link]()
