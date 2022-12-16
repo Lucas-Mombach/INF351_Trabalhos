@@ -1,10 +1,10 @@
 # INF351_Trabalhos
 
+Os projetos abaixo foram desenvolvidos durante a disciplina INF 351 - Sistemas Embarcados na UFV, ministrada pelo Professor Ricardo Ferreira
 
 ## Tutorial Arduino UNO LCD Keypad Shield
 
 [link](https://github.com/Lucas-Mombach/Arduino_LCD_Keypad_Shield-)
-
 
 ## Marvin,o Robô
 
@@ -14,13 +14,19 @@
 
 [link](https://github.com/Lucas-Mombach/2-Games-1-Board)
 
-## Trabalho 4
+## Fantasma PACMAN para o simulador
+
+[link](https://github.com/Lucas-Mombach/MESA)
+
+## Fantasma PACMAN para Mesa de LED 12x12
+
+[link](https://github.com/Lucas-Mombach/Ghost)
+
+## Marvin, o Robô que escuta Rádio
 [link]()
-## Trabalho 5
+
+## Jogo de Padrões
 [link]()
-## Trabalho 6
-[link]()
-## Trabalho 7
-[link]()
-## Trabalho 1
+
+## Trabalho 8
 [link]()
