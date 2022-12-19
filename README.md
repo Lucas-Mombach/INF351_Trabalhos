@@ -23,10 +23,10 @@ Os projetos abaixo foram desenvolvidos durante a disciplina INF 351 - Sistemas E
 [link](https://github.com/Lucas-Mombach/Ghost)
 
 ## Marvin, o Robô que escuta Rádio
-[link]()
+[link](https://github.com/Lucas-Mombach/Marvin-o-robo-que-escuta-radio)
 
-## Jogo do Padrão passado - LCD Shield Edition
-[link]()
+## Jogo do Padrão passado - Simulador Edition
+[link](https://github.com/Lucas-Mombach/Last_Pattern_Game_Simulator)
 
-## Jogo do Padrão passado - MESA LED Edition
-[link]()
+## Jogo do Padrão passado - MESA de LED Edition
+[link](https://github.com/Lucas-Mombach/Last_Pattern_Game_Real/blob/main/README.md)
