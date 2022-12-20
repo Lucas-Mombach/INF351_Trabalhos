@@ -1,4 +1,4 @@
-# INF351_Trabalhos
+# INF351 Projetos
 
 Os projetos abaixo foram desenvolvidos durante a disciplina INF 351 - Sistemas Embarcados na UFV, ministrada pelo Professor Ricardo Ferreira
 
