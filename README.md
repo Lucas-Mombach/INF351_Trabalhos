@@ -22,9 +22,6 @@ Os projetos abaixo foram desenvolvidos durante a disciplina INF 351 - Sistemas E
 
 [link](https://github.com/Lucas-Mombach/Ghost)
 
-## Marvin, o Robô que escuta Rádio
-[link](https://github.com/Lucas-Mombach/Marvin-o-robo-que-escuta-radio)
-
 ## Jogo do Padrão passado - Simulador Edition
 [link](https://github.com/Lucas-Mombach/Last_Pattern_Game_Simulator)
 
