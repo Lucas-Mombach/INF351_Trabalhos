@@ -26,4 +26,4 @@ Os projetos abaixo foram desenvolvidos durante a disciplina INF 351 - Sistemas E
 [link](https://github.com/Lucas-Mombach/Last_Pattern_Game_Simulator)
 
 ## Jogo do Padrão passado - MESA de LED Edition
-[link](https://github.com/Lucas-Mombach/Last_Pattern_Game_Real/blob/main/README.md)
+[link](https://github.com/Lucas-Mombach/Last_Pattern_Game_Real)
